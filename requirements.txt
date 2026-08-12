@@ -5,6 +5,6 @@ langchain
 langchain-core
 langgraph
 langchain-google-genai
-google-generativeai
 sse-starlette
+pydantic
 requests
